@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-browser-app.git%20/static/css/main.4130716d.chunk.css",
+    "main.js": "/movie-browser-app.git%20/static/js/main.d870a101.chunk.js",
+    "main.js.map": "/movie-browser-app.git%20/static/js/main.d870a101.chunk.js.map",
+    "runtime-main.js": "/movie-browser-app.git%20/static/js/runtime-main.b8653f35.js",
+    "runtime-main.js.map": "/movie-browser-app.git%20/static/js/runtime-main.b8653f35.js.map",
+    "static/js/2.9a21bb87.chunk.js": "/movie-browser-app.git%20/static/js/2.9a21bb87.chunk.js",
+    "static/js/2.9a21bb87.chunk.js.map": "/movie-browser-app.git%20/static/js/2.9a21bb87.chunk.js.map",
+    "static/js/3.4b09c319.chunk.js": "/movie-browser-app.git%20/static/js/3.4b09c319.chunk.js",
+    "static/js/3.4b09c319.chunk.js.map": "/movie-browser-app.git%20/static/js/3.4b09c319.chunk.js.map",
+    "index.html": "/movie-browser-app.git%20/index.html",
+    "static/css/main.4130716d.chunk.css.map": "/movie-browser-app.git%20/static/css/main.4130716d.chunk.css.map",
+    "static/js/2.9a21bb87.chunk.js.LICENSE.txt": "/movie-browser-app.git%20/static/js/2.9a21bb87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8653f35.js",
+    "static/js/2.9a21bb87.chunk.js",
+    "static/css/main.4130716d.chunk.css",
+    "static/js/main.d870a101.chunk.js"
+  ]
+}
