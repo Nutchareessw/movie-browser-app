@@ -1,2 +1,4 @@
 # movie-browser-app
-First React app
+First React ap
+
+Movie Search function has done
